@@ -1,0 +1,2 @@
+-- Database schema for The Cozy Table Hotel Management System
+-- Tables: users, reservations, menu, orders
